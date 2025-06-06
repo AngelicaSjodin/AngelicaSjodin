@@ -3,13 +3,14 @@ html, body {
 }
 
 body {
+  font-family: monospace;
   position: relative;
   padding-bottom: 100px;
 }
 
 .background{
-    background-color: black;
-    background: linear-gradient(#dbc29db2, #ffff);
+    
+    background: linear-gradient(rgb(255, 251, 243), rgb(221, 212, 192));
     margin: 0;    
     
 }
@@ -90,7 +91,7 @@ body {
 
 .nav-container {
   position: fixed;
-  background-color: #dbc29db2;
+  background-color: #fff2d78f;
   width: 100vw;
   top: 0;
   z-index: 10;
@@ -226,6 +227,7 @@ body {
     }
     
     .details {
+      font-family: monospace;
       font-size: 66px;
       padding: 20px;
       color: #fff;
@@ -248,12 +250,14 @@ body {
         line-height: 1;
         font-weight: 600;
         font-size: 50px;
+        
       }
       
       .info {
         line-height: 1.2;
         margin-top: 5px;
         font-size: 25px;
+        
       }
     }
     
@@ -303,9 +307,11 @@ body {
 
       .details > .title {
         font-size: 6vw;
+        
       }
       .details > .info {
         font-size: 3vw;
+        
       }
 
         .details > span{
