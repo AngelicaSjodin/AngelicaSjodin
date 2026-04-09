@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AngelicaSjodin
 - 👀 I’m interested in video games and design 
-- 🌱 I’m currently learning html, css and javascript
-- 💞️ I’m looking to collaborate on school projects
+- 💞️ I’m looking for internships
 - 📫 How to reach me: angelic.sjodin@gmail.com
 
 <!---
